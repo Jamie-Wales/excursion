@@ -44,3 +44,7 @@ p {
   width: 60%;
   margin-bottom: 1em;
 }
+
+footer p {
+  text-align: right;
+}
